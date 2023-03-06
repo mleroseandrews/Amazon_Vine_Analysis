@@ -18,3 +18,6 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 ## Summary
 This analysis revealed that there is no positive bias for reviews in the Vine program for Pet Products. The percentage of 5 star reviews for the Vine participating products was 15.72% lower than those who did not participate. This would suggest that participating in the Vine program does not generate a more positive outcome in the reviews for these specific product. 
 This analysis could also benefit from further investigation by re-running the analysis on only those reviews with a verified purchase to see if a verified purchase review change anything.
+
+![paid](paid.png)
+![unpaid](unpaid.png)
